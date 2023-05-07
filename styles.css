@@ -1,0 +1,30 @@
+.screen{
+     padding: 1%  14%;
+     background-color: grey;
+}
+
+/* navbar */
+
+.nav-item{
+     margin-right:5% ;
+}
+
+@media (max-width: 600px) {
+     .navbar{
+          padding:0;
+     }
+}
+
+/* Download*/
+
+
+
+/* Features*/
+
+
+
+
+/* Contact*/
+
+
+
